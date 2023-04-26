@@ -13,4 +13,4 @@ jobs:
       - uses: actions/add-to-project@v0.5.0
         with:
           project-url: https://github.com/users/yixi8524/projects/2
-          github-token: ${{ secrets.action }}
+          github-token: ${{ secrets.ACTION }}
